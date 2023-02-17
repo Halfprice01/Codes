@@ -1,0 +1,3 @@
+LT_SERVER_ADDRESS=https://automate.resultant.com
+LT_SYSTEM_PASSWORD=dQ17wZKEDTpgyc+Yp5/VoA==
+LT_LOCATION_ID=1704
